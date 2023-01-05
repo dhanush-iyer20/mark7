@@ -1,0 +1,43 @@
+body{
+    background-color: #112D4E;
+    font-family:Raleway;
+}
+.header{
+    font-family:Raleway;
+    color: #DBE2EF;
+    text-align: center;
+}
+#textarea1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    width: 500px;
+    height: 70px;
+}
+#button{
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family:Raleway;
+    background-color: #3F72AF;
+    color: white;
+    font-size: large;
+}
+#Outputdiv{
+    display: block;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    width: 500px;
+    height: 70px;
+}
+h2{
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+}
